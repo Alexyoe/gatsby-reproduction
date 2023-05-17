@@ -16,12 +16,8 @@
   },
   "license": "0BSD",
   "dependencies": {
-    "daisyui": "^2.51.6",
     "gatsby": "^5.9.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.3.2"
   }
 }
